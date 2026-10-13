@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Editiersystem.Core/Editiersystem.Core.vbproj" />
+    <Project Path="src/Editiersystem/Editiersystem.vbproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Editiersystem.Tests/Editiersystem.Tests.vbproj" />
+  </Folder>
+</Solution>

@@ -37,7 +37,7 @@ After all apps are modernized, clone the repository on Windows (.NET SDK 10 inst
 | lottozahlen | yes | yes | |
 | html-speicherung | yes | yes | |
 | kaffeeautomat | yes | yes | project still named `WindowsApplication1` |
-| editiersystem | yes | no | largest app (~720 lines), has class diagrams and a .docx |
+| editiersystem | yes | yes | largest app (~720 lines), has class diagrams and a .docx |
 | `Mein erstes Programm.exe` | in `legacy/` | no | exe only, no sources; decompile with ilspycmd if wanted |
 
 ## Log
@@ -46,3 +46,4 @@ After all apps are modernized, clone the repository on Windows (.NET SDK 10 inst
 - `lottozahlen` modernized (4 tests pass).
 - kaffeeautomat: modernized (Order logic in Core, 10 tests)
 - html-speicherung: modernized (TextFileSaver in Core, 1 test)
+- editiersystem: modernized (HtmlExporter in Core, 7 tests)

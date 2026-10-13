@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net10.0-windows</TargetFramework>
+    <RootNamespace>Editiersystem</RootNamespace>
+    <UseWindowsForms>true</UseWindowsForms>
+    <StartupObject>Editiersystem.Program</StartupObject>
+    <MyType>Custom</MyType>
+    <Version>2.0.0</Version>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Editiersystem.Core\Editiersystem.Core.vbproj" />
+    <Import Include="System.Windows.Forms" />
+  </ItemGroup>
+</Project>
