@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "MarkTED", "Editiersystem\MarkTED.vbproj", "{69305756-3F15-4215-B653-68A346DF468F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69305756-3F15-4215-B653-68A346DF468F}.Debug|x86.ActiveCfg = Debug|x86
+		{69305756-3F15-4215-B653-68A346DF468F}.Debug|x86.Build.0 = Debug|x86
+		{69305756-3F15-4215-B653-68A346DF468F}.Release|x86.ActiveCfg = Release|x86
+		{69305756-3F15-4215-B653-68A346DF468F}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

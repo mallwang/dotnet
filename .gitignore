@@ -1,0 +1,16 @@
+# Not-yet-modernized legacy material stays local
+/legacy/
+
+# Build output
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.docstates.suo
+
+# Editor
+.vscode/
+.idea/
