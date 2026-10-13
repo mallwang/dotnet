@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/ZahlenErraten.Core/ZahlenErraten.Core.vbproj" />
+    <Project Path="src/ZahlenErraten/ZahlenErraten.vbproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/ZahlenErraten.Tests/ZahlenErraten.Tests.vbproj" />
+  </Folder>
+</Solution>
