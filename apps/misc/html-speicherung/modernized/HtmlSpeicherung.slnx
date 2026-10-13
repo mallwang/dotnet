@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/HtmlSpeicherung.Core/HtmlSpeicherung.Core.vbproj" />
+    <Project Path="src/HtmlSpeicherung/HtmlSpeicherung.vbproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/HtmlSpeicherung.Tests/HtmlSpeicherung.Tests.vbproj" />
+  </Folder>
+</Solution>

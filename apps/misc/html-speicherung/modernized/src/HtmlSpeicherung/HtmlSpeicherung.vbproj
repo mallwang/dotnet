@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net10.0-windows</TargetFramework>
+    <RootNamespace>HtmlSpeicherung</RootNamespace>
+    <UseWindowsForms>true</UseWindowsForms>
+    <StartupObject>HtmlSpeicherung.Program</StartupObject>
+    <MyType>Custom</MyType>
+    <Version>2.0.0</Version>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\HtmlSpeicherung.Core\HtmlSpeicherung.Core.vbproj" />
+    <Import Include="System.Windows.Forms" />
+  </ItemGroup>
+</Project>
