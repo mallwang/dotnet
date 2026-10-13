@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/MeinErstesProgramm.Core/MeinErstesProgramm.Core.vbproj" />
+    <Project Path="src/MeinErstesProgramm/MeinErstesProgramm.vbproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/MeinErstesProgramm.Tests/MeinErstesProgramm.Tests.vbproj" />
+  </Folder>
+</Solution>
