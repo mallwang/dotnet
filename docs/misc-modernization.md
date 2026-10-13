@@ -36,7 +36,7 @@ After all apps are modernized, clone the repository on Windows (.NET SDK 10 inst
 | zahlen-erraten | yes | yes | Pilot, v2.0 |
 | lottozahlen | yes | yes | |
 | html-speicherung | yes | no | |
-| kaffeeautomat | yes | no | project still named `WindowsApplication1` |
+| kaffeeautomat | yes | yes | project still named `WindowsApplication1` |
 | editiersystem | yes | no | largest app (~720 lines), has class diagrams and a .docx |
 | `Mein erstes Programm.exe` | in `legacy/` | no | exe only, no sources; decompile with ilspycmd if wanted |
 
@@ -44,3 +44,4 @@ After all apps are modernized, clone the repository on Windows (.NET SDK 10 inst
 
 - Repository restructured, pilot `zahlen-erraten` modernized (5 xUnit tests pass; GUI not run, WSL has no Windows Forms).
 - `lottozahlen` modernized (4 tests pass).
+- kaffeeautomat: modernized (Order logic in Core, 10 tests)

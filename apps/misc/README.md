@@ -4,7 +4,7 @@
 |-----|---------------|-------------|--------|
 | [zahlen-erraten](zahlen-erraten/modernized/README.md) | ZahlenErraten | Number guessing game | modernized |
 | [lottozahlen](lottozahlen/modernized/README.md) | Lottozahlen | Lottery numbers | modernized |
-| kaffeeautomat | Kaffeeautomat (`WindowsApplication1`) | Coffee machine | legacy |
+| [kaffeeautomat](kaffeeautomat/modernized/README.md) | Kaffeeautomat (`WindowsApplication1`) | Coffee machine | modernized |
 | html-speicherung | HTMLspeicherung | Save HTML | legacy |
 | editiersystem | Editiersystem (`MarkTED`) | Text editing system | legacy |
 

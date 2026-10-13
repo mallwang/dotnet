@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Kaffeeautomat.Core/Kaffeeautomat.Core.vbproj" />
+    <Project Path="src/Kaffeeautomat/Kaffeeautomat.vbproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Kaffeeautomat.Tests/Kaffeeautomat.Tests.vbproj" />
+  </Folder>
+</Solution>
