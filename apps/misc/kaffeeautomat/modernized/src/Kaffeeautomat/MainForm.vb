@@ -30,6 +30,8 @@ Public Class MainForm
 
     Private Sub DrinkChanged(sender As Object, e As EventArgs) Handles optKaffee.CheckedChanged, optTee.CheckedChanged,
         optWasser.CheckedChanged, optCola.CheckedChanged, optSuppe.CheckedChanged
+        ' Raised by InitializeComponent before the lookup tables exist; the constructor handles that case.
+        If _drinks Is Nothing Then Return
         UpdateAdditions()
     End Sub
 
