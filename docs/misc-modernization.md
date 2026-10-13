@@ -23,12 +23,12 @@ After all apps are modernized, clone the repository on Windows (.NET SDK 10 inst
 
 | App | Windows check |
 |-----|:---:|
-| zahlen-erraten | open |
-| lottozahlen | open |
-| html-speicherung | open |
-| kaffeeautomat | open |
-| editiersystem | open |
-| mein-erstes-programm | open |
+| zahlen-erraten | yes |
+| lottozahlen | yes |
+| html-speicherung | yes |
+| kaffeeautomat | yes |
+| editiersystem | yes |
+| mein-erstes-programm | yes |
 
 ## Status
 
@@ -49,3 +49,4 @@ After all apps are modernized, clone the repository on Windows (.NET SDK 10 inst
 - html-speicherung: modernized (TextFileSaver in Core, 1 test)
 - editiersystem: modernized (HtmlExporter in Core, 7 tests)
 - mein-erstes-programm: modernized (FileInfoText in Core, 2 tests; decompiled from exe)
+- Windows check: all apps pass `dotnet test`, publish and start; GUI walked through manually. Fixed Kaffeeautomat startup crash (CheckedChanged raised during InitializeComponent).
