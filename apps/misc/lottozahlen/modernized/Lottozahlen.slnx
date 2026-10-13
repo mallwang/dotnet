@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Lottozahlen.Core/Lottozahlen.Core.vbproj" />
+    <Project Path="src/Lottozahlen/Lottozahlen.vbproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Lottozahlen.Tests/Lottozahlen.Tests.vbproj" />
+  </Folder>
+</Solution>

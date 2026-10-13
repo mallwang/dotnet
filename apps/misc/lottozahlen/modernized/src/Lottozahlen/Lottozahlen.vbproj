@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net10.0-windows</TargetFramework>
+    <RootNamespace>Lottozahlen</RootNamespace>
+    <UseWindowsForms>true</UseWindowsForms>
+    <StartupObject>Lottozahlen.Program</StartupObject>
+    <MyType>Custom</MyType>
+    <Version>2.0.0</Version>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Lottozahlen.Core\Lottozahlen.Core.vbproj" />
+    <Import Include="System.Windows.Forms" />
+  </ItemGroup>
+</Project>

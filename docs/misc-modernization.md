@@ -34,7 +34,7 @@ After all apps are modernized, clone the repository on Windows (.NET SDK 10 inst
 | App | Moved | Modernized | Notes |
 |-----|:---:|:---:|-------|
 | zahlen-erraten | yes | yes | Pilot, v2.0 |
-| lottozahlen | yes | no | |
+| lottozahlen | yes | yes | |
 | html-speicherung | yes | no | |
 | kaffeeautomat | yes | no | project still named `WindowsApplication1` |
 | editiersystem | yes | no | largest app (~720 lines), has class diagrams and a .docx |
@@ -43,3 +43,4 @@ After all apps are modernized, clone the repository on Windows (.NET SDK 10 inst
 ## Log
 
 - Repository restructured, pilot `zahlen-erraten` modernized (5 xUnit tests pass; GUI not run, WSL has no Windows Forms).
+- `lottozahlen` modernized (4 tests pass).
