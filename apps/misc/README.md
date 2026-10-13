@@ -7,5 +7,6 @@
 | [kaffeeautomat](kaffeeautomat/modernized/README.md) | Kaffeeautomat (`WindowsApplication1`) | Coffee machine | modernized |
 | [html-speicherung](html-speicherung/modernized/README.md) | HTMLspeicherung | Save HTML | modernized |
 | [editiersystem](editiersystem/modernized/README.md) | Editiersystem (`MarkTED`) | Text editing system | modernized |
+| [mein-erstes-programm](mein-erstes-programm/modernized/README.md) | Mein erstes Programm | Directory file listing with file timestamps | modernized |
 
 Back to [apps](../README.md).

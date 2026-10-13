@@ -28,6 +28,7 @@ After all apps are modernized, clone the repository on Windows (.NET SDK 10 inst
 | html-speicherung | open |
 | kaffeeautomat | open |
 | editiersystem | open |
+| mein-erstes-programm | open |
 
 ## Status
 
@@ -38,7 +39,7 @@ After all apps are modernized, clone the repository on Windows (.NET SDK 10 inst
 | html-speicherung | yes | yes | |
 | kaffeeautomat | yes | yes | project still named `WindowsApplication1` |
 | editiersystem | yes | yes | largest app (~720 lines), has class diagrams and a .docx |
-| `Mein erstes Programm.exe` | in `legacy/` | no | exe only, no sources; decompile with ilspycmd if wanted |
+| mein-erstes-programm | yes | yes | decompiled from exe with ilspycmd (no sources) |
 
 ## Log
 
@@ -47,3 +48,4 @@ After all apps are modernized, clone the repository on Windows (.NET SDK 10 inst
 - kaffeeautomat: modernized (Order logic in Core, 10 tests)
 - html-speicherung: modernized (TextFileSaver in Core, 1 test)
 - editiersystem: modernized (HtmlExporter in Core, 7 tests)
+- mein-erstes-programm: modernized (FileInfoText in Core, 2 tests; decompiled from exe)
