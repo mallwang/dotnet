@@ -1,3 +1,5 @@
+Imports System.Drawing
+
 Public Class MainForm
     Private Sub cmdFett_Click(sender As Object, e As EventArgs) Handles cmdFett.Click
         Dim start = rtxt1.SelectionStart
